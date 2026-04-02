@@ -537,7 +537,7 @@ body {
     width: 100%;
     background-image:
         linear-gradient(135deg, rgba(10, 10, 15, 0.9) 0%, rgba(10, 10, 15, 0.85) 100%),
-        url("iut.jpg");
+        url("iut.jpg?v=2");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
