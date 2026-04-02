@@ -1,8 +1,9 @@
 {
   "version": 2,
-  "buildCommand": null,
-  "outputDirectory": "src/html",
-  "devCommand": null,
-  "installCommand": null,
-  "framework": null
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/src/html/index.html"
+    }
+  ]
 }
